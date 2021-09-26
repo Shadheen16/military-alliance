@@ -5,7 +5,7 @@
         "country": "Bangladesh",
         "power_rank":"45",
         "img":"https://www.newagebd.com/files/records/news/202009/117511_174.jpg",
-        "contribution": "2"  
+        "contribution": "10"  
     },
     {
         "name": "Narendra Modi",
@@ -13,7 +13,7 @@
         "country": "India",
         "power_rank":"4",
         "img":"https://static.dw.com/image/45607810_303.jpg",
-        "contribution": "10"  
+        "contribution": "15"  
     },
     {
         "name": "Xi Jinping",
@@ -21,7 +21,7 @@
         "country": "China",
         "power_rank":"3",
         "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Xi_Jinping_2019_%2849060546152%29_2.jpg/661px-Xi_Jinping_2019_%2849060546152%29_2.jpg",
-        "contribution": "20"  
+        "contribution": "50"  
     },
     {
         "name": "Imran Khan",
@@ -29,7 +29,7 @@
         "country": "Pakistan",
         "power_rank":"4",
         "img":"https://images.firstpost.com/wp-content/uploads/2021/03/imran-khan-640-AP.jpg?impolicy=website&width=640&height=363",
-        "contribution": "1"  
+        "contribution": "2"  
     },
     {
         "name": "Hassan Rouhani",
@@ -37,7 +37,7 @@
         "country": "Iran",
         "power_rank":"14",
         "img":"https://cdn.britannica.com/76/172776-050-75DE064D/Iranian-Pres-Hassan-Rouhani.jpg",
-        "contribution": "5"  
+        "contribution": "15"  
     },
     {
         "name": "Recep Tayyip Erdogan",
@@ -45,7 +45,7 @@
         "country": "Turkey",
         "power_rank":"11",
         "img":"https://cdnuploads.aa.com.tr/uploads/VideoGallery/2021/05/18/7185a56541eddda0d88998f4a7ef65e1.jpg",
-        "contribution": "15"  
+        "contribution": "20.5"  
     },
     {
         "name": "Salman",
@@ -53,7 +53,7 @@
         "country": "Saudi Arabia",
         "power_rank":"17",
         "img":"https://www.aljazeera.com/wp-content/uploads/2020/07/708a32fd9a17461bbd5457e7d347ef1a_18.jpeg?resize=770%2C513",
-        "contribution": "50"  
+        "contribution": "100"  
     },
     {
         "name": "Sekh Tamim",
@@ -61,7 +61,7 @@
         "country": "Qatar",
         "power_rank":"82",
         "img":"https://idsb.tmgrup.com.tr/ly/uploads/images/2020/12/30/82651.jpg",
-        "contribution": "40"  
+        "contribution": "110"  
     },
     {
         "name": "abdel Fattah el-Sisi",
@@ -69,7 +69,7 @@
         "country": "Egypt",
         "power_rank":"13",
         "img":"https://www.middleeasteye.net/sites/default/files/styles/article_page/public/column-image/Abdel-Fattah-al-Sisi.jpg?itok=jBTLpvsH",
-        "contribution": "5"  
+        "contribution": "10"  
     },
     {
         "name": "Gotabaya Rajapaksa",
@@ -77,7 +77,7 @@
         "country": "Sri Lanka",
         "power_rank":"79",
         "img":"https://cdn.britannica.com/89/219789-050-C32CD6D1/Presidential-candidate-Gotabaya-Rajapaksa-November-13-2019.jpg",
-        "contribution": "0.5"  
+        "contribution": "1.5"  
     },
     {
         "name": "Joko Widodo",
@@ -85,7 +85,7 @@
         "country": "Indonesia",
         "power_rank":"15",
         "img":"https://ichef.bbci.co.uk/images/ic/400xn/p08369v9.jpg",
-        "contribution": "3.5"  
+        "contribution": "4.5"  
     },
     {
         "name": "Pham Minh Chinh",
@@ -93,7 +93,7 @@
         "country": "Vietnam",
         "power_rank":"24",
         "img":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Mr._Nguyen_Xuan_Phuc.jpg",
-        "contribution": "2.35"  
+        "contribution": "4.35"  
     },
     {
         "name": "Prayut Chan-o-cha",
@@ -109,7 +109,7 @@
         "country": "United Arab Emirates",
         "power_rank":"36",
         "img":"https://cdn.britannica.com/88/223988-050-15AFC8DC/President-United-Arab-Emirates-Khalifa-bin-Zayed-Al-Nahyan.jpg",
-        "contribution": "35"  
+        "contribution": "90"  
     },
     {
         "name": "Lee Hsien Loong",
@@ -117,7 +117,7 @@
         "country": "Singapore",
         "power_rank":"40",
         "img":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Lee_Hsien_Loong_2016_%28cropped%29.jpg",
-        "contribution": "4.10"  
+        "contribution": "4.50"  
     },
     {
         "name": "Nursultan Nazarbayev.",
@@ -125,6 +125,6 @@
         "country": "Kazakhstan",
         "power_rank":"51",
         "img":"https://studies.aljazeera.net/sites/default/files/migration/ResourceGallery/media/Images/2013/7/17//201371773946424734_19.jpg",
-        "contribution": "1.5"  
+        "contribution": "3.5"  
     }
 ]
