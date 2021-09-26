@@ -1,8 +1,13 @@
-import React from 'react';
+import React ,{useState} from 'react';
+import "../Card/Card"
+import Card from '../Card/Card';
 
 const Cart = (props) => {
     const cart = props.cart;
-    console.log(cart);
+     const [cartChild, setCartChild] = useState([]);
+    //  setCartChild((cartChild)=>{
+    //      const newChartChild = [...cartChild, cart]});
+    //  console.log(cartChild);
 
     let totalCountry = 0;
     let totalFund = 0;
@@ -17,10 +22,18 @@ const Cart = (props) => {
 
 
     return (
-        <div className="mr-auto w-3/12 text-blue-400">
-            <div className="p-5 fixed right-16 mt-3">
-                <h1 className="text-2xl font-bold">Country Added : {totalCountry}<span className="text-white"></span></h1>
-                <h1 className="text-xl font-bold">Total Fund : <span className="text-white">$ {totalFund}<span className="ml-2">Billion</span></span></h1>
+        <div className="w-3/12 text-blue-400 fixed right-0">
+            <div className="p-5  mt-3">
+                <h1 className="text-2xl text-blue-40 font-bold">Country Added : <span className="text-white"></span>{totalCountry}</h1>
+                <h1 className="text-xl font-bold">Total Fund : <span className="text-white">$ {totalFund}<span className="ml-2">Bn</span></span></h1>
+            </div>
+            <div>
+                {
+                 cart.map(country=><Card
+                    key={country.country}
+                    country={country}
+                    className="text-white"></Card>)
+                }               
             </div>
         </div>
     );
