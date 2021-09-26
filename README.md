@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# A simple react app 
 
 To see live demo [click here](https://gifted-kirch-67be5f.netlify.app/).
+
+#About this app
+
+1. Basic react concepts implimented with useState and useEffect hooks
+2. Make a military alliance from 16 different countries of asia
+3. Click the "Add to Cart" button to add countries to allies and raise funds
+4. You can not add a country multiple times, after click the button will be disabled
 
 ## Available Scripts
 
