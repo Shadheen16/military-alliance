@@ -4,7 +4,7 @@ import Body from "./components/Body/Body"
 function App() {
   return (
     <div className="App">
-      <div className="m-auto">
+      <div className="m-auto pb-5">
         <Header></Header>
         <Body></Body>
       </div>

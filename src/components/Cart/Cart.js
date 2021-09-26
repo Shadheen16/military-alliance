@@ -18,21 +18,21 @@ const Cart = (props) => {
 
     return (
         <div className="w-4/12 text-blue-400">
-            <div className="sticky top-0">
+            <div className="sticky top-2">
+                <div className="mt-7">
+                    {
+                        cart.map(leader => <Card
+                            key={leader.leader}
+                            leader={leader}
+                            className="text-white"></Card>)
+                    }
+                </div>
                 <div className="p-5  mt-3">
-                    <h1 className="text-2xl text-blue-40 font-bold">leader Added : <span className="text-white"></span>{totalleader}</h1>
-                    <h1 className="text-xl font-bold">Total Fund : <span className="text-white">$ {totalFund}<span className="ml-2">bn</span></span></h1>
+                    <h1 className="text-2xl text-blue-40 font-bold">Leader Added : <span className="text-white"></span>{totalleader}</h1>
+                    <h1 className="text-xl font-bold text-white">Total Fund : <span className="text-white">$ {totalFund}<span className="ml-2">bn</span></span></h1>
                 </div>
-                <div>
-                </div>
-
-                {
-                    cart.map(leader => <Card
-                        key={leader.leader}
-                        leader={leader}
-                        className="text-white"></Card>)
-                }
             </div>
+
         </div>
     );
 };
