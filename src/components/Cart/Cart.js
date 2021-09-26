@@ -17,7 +17,8 @@ const Cart = (props) => {
 
 
     return (
-        <div className="w-4/12 text-blue-400">
+        <div className="w-4/12 text-white">
+            <h1 className="mt-3 font-bold text-blue-400">ESTIMATED BUDGET 300 BILLION</h1>
             <div className="sticky top-2">
                 <div className="mt-7">
                     {
@@ -28,8 +29,8 @@ const Cart = (props) => {
                     }
                 </div>
                 <div className="p-5  mt-3">
-                    <h1 className="text-2xl text-blue-40 font-bold">Leader Added : <span className="text-white"></span>{totalleader}</h1>
-                    <h1 className="text-xl font-bold text-white">Total Fund : <span className="text-white">$ {totalFund}<span className="ml-2">bn</span></span></h1>
+                    <h1 className="text-2xl text-blue-40 font-bold">LEADER ADDED : <span className="text-white"></span>{totalleader}</h1>
+                    <h1 className=" font-bold text-white">TOTAL FUND : <span className="text-white">$ {totalFund}<span className="ml-2">BILLION</span></span></h1>
                 </div>
             </div>
 

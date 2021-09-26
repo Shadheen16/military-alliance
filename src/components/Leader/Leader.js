@@ -15,7 +15,7 @@ const Leader = (props) => {
     const [disable, setDisable] = useState(false);
 
     return (
-        <div className="p-5  bg-transparent rounded text-white ring-2 ring-blue-400 ring-opacity-90 leader">
+        <div className="p-5  hover:bg-transparent rounded text-white ring-2 ring-blue-400 ring-opacity-90 leader">
             <div className="">
                 <img className="w-32 h-32 rounded-full m-auto ring-2 ring-blue-400 ring-offset-1 image" src={img} alt="" />
                 <br />

@@ -1,11 +1,14 @@
 import React from 'react';
-
+import "./Header.css"
 const Header = () => {
     return (
-        <div className="relative text-white p-5 font-bold header">
-            <h1 className="text-2xl md:text-4xl text-blue-400">Make a Military alliance</h1>
-            <p className="text-xl">The World is on evil's hand, Let our Asian power save the humanity</p>
-            <h1 className="text-3xl">Estimated Budget: 200 Billion</h1>
+        <div className="relative text-white p-5 font-bold">
+            <div className="lh-2 w-full h-24 text-white w-full flex justify-center align-center rounded header">
+                <nav className="w-10/12 m-auto">
+                    <span className="mr-5 text-2xl py-3 rounded-full ring-2">AMA</span>
+                    <h1 className="text-2xl md:text-4xl text-white inline-block">Make a Military Alliance</h1>
+                </nav>
+            </div>
         </div>
     );
 };
