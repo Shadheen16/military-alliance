@@ -8,7 +8,7 @@ function App() {
         <Header></Header>
         <Body></Body>
       </div>
-      </div>
+    </div>
   );
 }
 

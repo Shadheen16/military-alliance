@@ -1,13 +1,8 @@
-import React, { useState } from 'react';
 import "../Card/Card"
 import Card from '../Card/Card';
 
 const Cart = (props) => {
     const cart = props.cart;
-    const [cartChild, setCartChild] = useState([]);
-    //  setCartChild((cartChild)=>{
-    //      const newChartChild = [...cartChild, cart]});
-    //  console.log(cartChild);
 
     let totalCountry = 0;
     let totalFund = 0;
