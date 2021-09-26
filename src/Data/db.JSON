@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Shekh Hasina",
+        "designation": "Prime Minister",
+        "country": "Bangladesh",
+        "power_rank":"45",
+        "img":"https://www.newagebd.com/files/records/news/202009/117511_174.jpg",
+        "donation": "2"  
+    },
+    {
+        "name": "Narendra Modi",
+        "designation": "Prime Minister",
+        "country": "India",
+        "power_rank":"4",
+        "img":"https://static.dw.com/image/45607810_303.jpg",
+        "donation": "10"  
+    },
+    {
+        "name": "Xi Jinping",
+        "designation": "President",
+        "country": "India",
+        "power_rank":"3",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Xi_Jinping_2019_%2849060546152%29_2.jpg/661px-Xi_Jinping_2019_%2849060546152%29_2.jpg",
+        "donation": "20"  
+    },
+    {
+        "name": "Imran Khan",
+        "designation": "Prime Minister",
+        "country": "India",
+        "power_rank":"4",
+        "img":"https://images.firstpost.com/wp-content/uploads/2021/03/imran-khan-640-AP.jpg?impolicy=website&width=640&height=363",
+        "donation": "1"  
+    },
+    {
+        "name": "Hassan Rouhani",
+        "designation": "President",
+        "country": "Iran",
+        "power_rank":"14",
+        "img":"https://cdn.britannica.com/76/172776-050-75DE064D/Iranian-Pres-Hassan-Rouhani.jpg",
+        "donation": "5"  
+    },
+    {
+        "name": "Recep Tayyip Erdogan",
+        "designation": "President",
+        "country": "Turkey",
+        "power_rank":"11",
+        "img":"https://cdnuploads.aa.com.tr/uploads/VideoGallery/2021/05/18/7185a56541eddda0d88998f4a7ef65e1.jpg",
+        "donation": "15"  
+    },
+    {
+        "name": "Salman",
+        "designation": "King",
+        "country": "Saudi Arabia",
+        "power_rank":"17",
+        "img":"https://www.aljazeera.com/wp-content/uploads/2020/07/708a32fd9a17461bbd5457e7d347ef1a_18.jpeg?resize=770%2C513",
+        "donation": "50"  
+    },
+    {
+        "name": "Sekh Tamim",
+        "designation": "Emir",
+        "country": "Qatar",
+        "power_rank":"82",
+        "img":"https://idsb.tmgrup.com.tr/ly/uploads/images/2020/12/30/82651.jpg",
+        "donation": "40"  
+    },
+    {
+        "name": "abdel Fattah el-Sisi",
+        "designation": "President",
+        "country": "Egypt",
+        "power_rank":"13",
+        "img":"https://www.middleeasteye.net/sites/default/files/styles/article_page/public/column-image/Abdel-Fattah-al-Sisi.jpg?itok=jBTLpvsH",
+        "donation": "5"  
+    },
+    {
+        "name": "Gotabaya Rajapaksa",
+        "designation": "President",
+        "country": "Sri Lanka",
+        "power_rank":"79",
+        "img":"https://cdn.britannica.com/89/219789-050-C32CD6D1/Presidential-candidate-Gotabaya-Rajapaksa-November-13-2019.jpg",
+        "donation": "0.5"  
+    },
+    {
+        "name": "Joko Widodo",
+        "designation": "President",
+        "country": "Indonesia",
+        "power_rank":"15",
+        "img":"https://ichef.bbci.co.uk/images/ic/400xn/p08369v9.jpg",
+        "donation": "3.5"  
+    },
+    {
+        "name": "Pham Minh Chinh",
+        "designation": "Prime Minister",
+        "country": "Vietnam",
+        "power_rank":"24",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Mr._Nguyen_Xuan_Phuc.jpg",
+        "donation": "2.35"  
+    },
+    {
+        "name": "Prayut Chan-o-cha",
+        "designation": "Prime Minister",
+        "country": "Thailand",
+        "power_rank":"26",
+        "img":"https://media-eng.dhakatribune.com/uploads/2021/03/thai-pm-1614699875138.jpg",
+        "donation": "4.25"  
+    },
+    {
+        "name": "Khalifa bin Zayed Al Nahyan",
+        "designation": "President",
+        "country": "United Arab Emirates",
+        "power_rank":"36",
+        "img":"https://media-eng.dhakatribune.com/uploads/2021/03/thai-pm-1614699875138.jpg",
+        "donation": "35"  
+    },
+    {
+        "name": "Lee Hsien Loong",
+        "designation": "Prime Minister",
+        "country": "Singapore",
+        "power_rank":"40",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/e/ee/Lee_Hsien_Loong_2016_%28cropped%29.jpg",
+        "donation": "4.10"  
+    },
+    {
+        "name": "Nursultan Nazarbayev.",
+        "designation": "President",
+        "country": "Kazakhstan",
+        "power_rank":"51",
+        "img":"https://studies.aljazeera.net/sites/default/files/migration/ResourceGallery/media/Images/2013/7/17//201371773946424734_19.jpg",
+        "donation": "1.10"  
+    }
+]

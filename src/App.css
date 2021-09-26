@@ -1,5 +1,12 @@
 .App {
   text-align: center;
+  min-height:100vh;
+  background-image: url(./img/backgrond.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-position:center;
+  background-color: rgba(0, 0, 0, 0.795);
+  background-blend-mode:multiply;
 }
 
 .App-logo {
