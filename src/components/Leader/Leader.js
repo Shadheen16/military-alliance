@@ -1,11 +1,12 @@
 import React, { useState } from 'react';
+import "./leader.css"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 // import { fab } from '@fortawesome/free-brands-svg-icons'
 import { faCartPlus } from '@fortawesome/free-solid-svg-icons';
 
-const Country = (props) => {
+const Leader = (props) => {
     // destructuring props data
-    const { name, designation, country, img, power_rank, contribution } = props.country;
+    const { name, designation, country, img, power_rank, contribution } = props.leader;
 
     // icons
     const cartIcon = <FontAwesomeIcon icon={faCartPlus} />;
@@ -14,8 +15,8 @@ const Country = (props) => {
     const [disable, setDisable] = useState(false);
 
     return (
-        <div className="p-5 bg-black rounded text-white ring-2 ring-blue-400 ring-opacity-90">
-            <div >
+        <div className="p-5  bg-transparent rounded text-white ring-2 ring-blue-400 ring-opacity-90 leader">
+            <div className="">
                 <img className="w-32 h-32 rounded-full m-auto ring-2 ring-blue-400 ring-offset-1 image" src={img} alt="" />
                 <br />
                 <h1>Name: {name}</h1>
@@ -27,7 +28,7 @@ const Country = (props) => {
                 <button
                     disabled={disable}
                     onClick={() => {
-                        props.handleAddToCart(props.country)
+                        props.handleAddToCart(props.leader)
                         setDisable(true);
                     }}
                     className="px-8 py-1 bg-blue-400 ring-2 ring-blue-400 hover:bg-black rounded mt-5"><span className="mr-2">{cartIcon}</span>Add to Cart</button>
@@ -40,4 +41,4 @@ const Country = (props) => {
     );
 };
 
-export default Country;
+export default Leader;

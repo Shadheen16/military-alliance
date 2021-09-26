@@ -1,13 +1,8 @@
 <<<<<<< HEAD
-# simple-react-app
-
-See live demo here- [](https://github.com/facebook/create-react-app).
+# react-military-alliance
+live demo - [ Click here](https://gifted-kirch-67be5f.netlify.app/).
 =======
-# A simple react app 
-
-To see live demo [click here](https://gifted-kirch-67be5f.netlify.app/).
-
-#About this app
+# About this app
 
 1. Basic react concepts implimented with useState and useEffect hooks
 2. Make a military alliance from 16 different countries of asia
